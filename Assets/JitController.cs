@@ -10,4 +10,8 @@ public class JitController : MonoBehaviour
     }
 
     // Update is called once per frame
+    void Update()
+    {
+        
+    }
 }
